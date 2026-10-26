@@ -1,0 +1,17 @@
+{
+  "name": "RuneMonitor",
+  "version": "1.0.0",
+  "contactEmailAddress": "jalen.rune@gmail.com",
+  "requiredDependencies": {
+    "prettyui": 6398181
+  },
+  "optionalPermissions": [
+    "httpAccess",
+    "chatAccess"
+  ],
+  "urls": {
+    "relay": "http://127.0.0.1:8787"
+  },
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": true
+}
